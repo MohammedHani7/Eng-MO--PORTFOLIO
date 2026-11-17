@@ -20,7 +20,7 @@ window.SITE={
   ],
   skills:[
     {g:'Systems and low-level',i:['C','C++','Assembly Language']},
-    {g:'General-purpose',i:['Java','Python']},
+    {g:'General-purpose',i:['Java','Python','R']},
     {g:'Web',i:['HTML','CSS','JavaScript']},
     {g:'Logic programming',i:['Prolog']}
   ],
@@ -33,8 +33,8 @@ window.SITE={
     {i:'Meta',t:'Django Web Framework',u:'https://www.coursera.org/account/accomplishments/verify/RNWEM00J77S2'},
     {i:'University of Michigan',t:'Applied Machine Learning in Python',u:'https://www.coursera.org/account/accomplishments/verify/8ZN99CBJRNY8'},
     {i:'IBM',t:'AI Foundations: How Artificial Intelligence Works',u:'https://www.coursera.org/account/accomplishments/verify/JAEUGX2DZ4NR'},
-    {i:'University of Michigan',t:'Gender Equality',u:'https://www.coursera.org/account/accomplishments/verify/VW9SZDN8W768'},
-    {i:'University of Western Australia',t:'Data Structures in C',u:'https://www.coursera.org/account/accomplishments/verify/3LSF176K4Q1T'},
+    {i:'University of Michigan',t:'Data Structures in C',u:'https://www.coursera.org/account/accomplishments/verify/VW9SZDN8W768'},
+    {i:'University of Western Australia',t:'Gender Equality',u:'https://www.coursera.org/account/accomplishments/verify/3LSF176K4Q1T'},
     {i:'Universidad de Palermo',t:'Object-Oriented Programming with Java',u:'https://www.coursera.org/account/accomplishments/verify/5ENZPJ231SXE'}
   ]
 };
